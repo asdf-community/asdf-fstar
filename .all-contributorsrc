@@ -15,6 +15,15 @@
         "doc",
         "maintenance"
       ]
+    },
+    {
+      "login": "nzws",
+      "name": "nzws✨",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/14953122?v=4",
+      "profile": "https://nzws.me",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
