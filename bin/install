@@ -47,7 +47,7 @@ install_fstar() {
   esac
 
   local download_url="https://github.com/FStarLang/FStar/releases/download/v${version}/fstar_${version}_${platform}_${architecture}.tar.gz"
-  local source_path="fstar_${version}_${platform}_${architecture}.tar.gz"
+  local source_path="${install_path}/fstar_${version}_${platform}_${architecture}.tar.gz"
 
   (
     echo "∗ Downloading and installing fstar..."
