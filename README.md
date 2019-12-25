@@ -1,6 +1,6 @@
 <div align="center">
 <h1>asdf-fstar</h1>
-<span><a href="https://fstarprover.github.io">FStar</a> plugin for asdf version manager</span>
+<span><a href="https://www.fstar-lang.org">FStar</a> plugin for asdf version manager</span>
 </div>
 <hr />
 
